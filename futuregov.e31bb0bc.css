@@ -165,7 +165,7 @@ body .link--white:hover {
   background-position: left bottom;
 }
 body .button--pink {
-  z-index: 3;
+  z-index: 1;
   overflow: hidden;
   position: relative;
   cursor: pointer;
@@ -354,7 +354,7 @@ body .outer-limit {
 /* filters */
 /* breakpoints */
 header {
-  z-index: 2;
+  z-index: 3;
   width: 100%;
   background-image: -webkit-gradient(linear, left top, left bottom, color-stop(25%, #ffffff), to(rgba(255, 255, 255, 0)));
   background-image: linear-gradient(to bottom, #ffffff 25%, rgba(255, 255, 255, 0));
