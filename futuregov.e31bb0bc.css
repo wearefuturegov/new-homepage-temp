@@ -165,7 +165,7 @@ body .link--white:hover {
   background-position: left bottom;
 }
 body .button--pink {
-  z-index: 1;
+  z-index: 3;
   overflow: hidden;
   position: relative;
   cursor: pointer;
